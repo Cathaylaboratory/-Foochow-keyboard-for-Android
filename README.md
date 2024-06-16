@@ -1,2 +1,2 @@
-# 福州話平話字輸入法Android版本
+# 福州話羅馬字輸入法Android版本
 Foochow keyboard for Android system福州話平話字輸入法Android版本
